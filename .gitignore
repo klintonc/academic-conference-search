@@ -1,0 +1,11 @@
+# Local API keys
+/config.php
+
+# Composer
+/vendor/
+composer.phar
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
